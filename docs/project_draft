@@ -1,0 +1,15 @@
+/*
+
+Banking application:
+
+This application can deal with:
+ - check balance, deposit, withdraw, exit, etc.
+
+ Possible further development opportunities:
+ - create an inherited saving account in order to deal with savings and
+ - calculate different interest rates on it according to the maturity date
+ - calculate everything in EUR as well
+ - pop up message when the account exceeds a certain amount in order to place to the savings account
+
+
+*/
